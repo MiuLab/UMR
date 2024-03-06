@@ -1,0 +1,11 @@
+transformers==4.26.0
+torch>=1.10.0
+accelerate>=0.15.0
+sentencepiece==0.1.97
+faiss-gpu
+spacy
+jsonlines
+ipython
+ipdb
+nltk
+wandb
