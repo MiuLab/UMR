@@ -2,6 +2,11 @@
 
 This repository contains the source code of our paper "Unsupervised Multilingual Dense Retrieval via Generative Pseudo Labeling", which has been accepted to Findings of EACL 2024.
 
+<img width="1024" alt="image" src="https://github.com/MiuLab/UMR/assets/11765276/8a29f951-eeea-4927-aa73-44308d625403">
+
+<img width="1024" alt="image" src="https://github.com/MiuLab/UMR/assets/11765276/0b72b944-79e4-4dd5-bf98-289d003a6970">
+
+
 
 ## Requirements
 * Python >= 3.8
