@@ -1,4 +1,5 @@
 # UMR: Unsupervised Multilingual Dense Retrieval via Generative Pseudo Labeling
+[Paper](https://arxiv.org/abs/2403.03516)
 
 This repository contains the source code of our paper "Unsupervised Multilingual Dense Retrieval via Generative Pseudo Labeling", which has been accepted to Findings of EACL 2024.
 
